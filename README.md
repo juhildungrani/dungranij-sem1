@@ -1,2 +1,2 @@
 # dungranij-sem1
-part of 5001 cem for heroku deployment
+my topic is news (SID - 9963148)
